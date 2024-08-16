@@ -1,0 +1,3 @@
+Phone: 0987654321, Name: Niles Crane, Email: niles@gmail.com, Notes: Lives in Seattle + NEW NOTE: psychiatrist
+Phone: 1234567890, Name: Martin, Email: martin@tv.com, Notes: bad boy bad boy watchya gonna do
+Phone: 1329782534, Name: Martin Crane, Email: advanced@age.age, Notes: retired

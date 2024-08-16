@@ -1,0 +1,5 @@
+Phone: 1234567891, Name: Cosmo Kramer, Email: cosmo@gmail.com, Notes: lives in New York
+Phone: 0987654321, Name: Jerry Seinfeld, Email: adam@gmail.com, Notes: puffy shirt + NEW NOTE: Funny guy
+Phone: 1234432112, Name: Elaine Bennis, Email: lovesdoritos@elaine.org, Notes: Bad dancer!!!
+Phone: 0909090909, Name: Frasier Crane, Email: seattle@wash.edu, Notes: likes scrambled eggs
+Phone: 0909090901, Name: George Costanza, Email: georgey@gmail.com, Notes: All these pretzels are making him thirsty
