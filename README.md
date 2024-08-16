@@ -167,32 +167,3 @@ TABLE OF CONTENTS:
    That being said, I think that functionally, the fact that the file updates as you go is more user-friendly than that more code-efficient solution, so it's a double-edged sword.
 
    Additionally, quite a bit of code is repeated in this project. I think there's much room for more efficiency in the future. I will need to take more time to consider modularity more thoroughly.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-      
-      
-
-
